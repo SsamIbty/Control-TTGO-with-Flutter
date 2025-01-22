@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966940200247",
+    "project_id": "flutterttgo",
+    "storage_bucket": "flutterttgo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966940200247:android:acce2bdb5d88675ff51eb2",
+        "android_client_info": {
+          "package_name": "com.example.ttgo_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxb3lXny9ww-MeA7VEq2feDLpJMlYAm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
